@@ -14,7 +14,7 @@ w = "\033[1;37m"
 logo = """\033[1;37m
 
 ┌-=============================   -   
-=      \033[1;31m . ┌──────── \033[1;37mVaim-Emsg     -   
+=      \033[1;31m . ┌──────── \033[1;37mTHOR-Emsg     -   
 =  \033[1;31m .┌───  \033[1;37mB-Hat Thor PROJECT   -   \033[34m[✔️] https://github.com/codexniyansh/Wp-ban-.git    [✔️]
 \033[1;37m=   Wp ban           -   \033[34m[✔️]            Version 1.0                 [✔️]
 \033[1;37m= \033[1;31m . └──── \033[1;37mBY Thor   -   \033[91m[X] Please Don't Use For illegal Activity  [X]
